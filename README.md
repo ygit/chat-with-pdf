@@ -14,7 +14,7 @@ This project allows users to upload a PDF file, generate a summary using AI, and
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/harshil1712/chat-with-pdf
+git clone https://github.com/ygit/chat-with-pdf
 cd chat-with-pdf
 ```
 
